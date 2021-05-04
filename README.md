@@ -1,3 +1,3 @@
 # NBA_Player_WinShares
 
-djskjdksjdksjd
+Python project that predicts NBA player win shares statistic using scikit-learn and linear regression.
